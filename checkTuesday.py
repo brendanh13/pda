@@ -12,3 +12,4 @@ if dayOfWeek == 1:
 else:
     print("It's not Tuesday")
     
+
